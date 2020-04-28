@@ -1,7 +1,8 @@
 # ip-tracker
 
 <img src="ss.png"/>
-
+<br />
+<img src="Ss2.png"/>
 <h2>Usage:</h2>
 
 <b>git clone https://github.com/Mr-silentcoder/ip-tracker.git <b><br />
