@@ -5,8 +5,10 @@
 <h2>Usage:</h2>
 <br />
 <b>Install ngrok</a>
+<br />
 <b>sudo mv ngrok /usr/local/bin <b>
 <br />
+<br /> 
 #root
 <br />
 <b>git clone https://github.com/Mr-silentcoder/ip-tracker.git <b><br />
