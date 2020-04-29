@@ -1,9 +1,11 @@
 # ip-tracker
 
-<img src="ss.png"/>
+<img src="ip.png"/>
 <br />
-<img src="Ss2.png"/>
 <h2>Usage:</h2>
+<br />
+<b>Install ngrok</a>
+<b>sudo mv ngrok /usr/local/bin <b>
 <br />
 #root
 <br />
